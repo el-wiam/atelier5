@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "969203976543",
+    "project_id": "atelier4-elfardwiam",
+    "storage_bucket": "atelier4-elfardwiam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969203976543:android:ce0bc757b287e0687a4eea",
+        "android_client_info": {
+          "package_name": "com.example.produitapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIp8deLoj740GngGj_hel51hcdA_5Umds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969203976543:android:49e857ad5830d31f7a4eea",
+        "android_client_info": {
+          "package_name": "com.example.produits_atelier_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIp8deLoj740GngGj_hel51hcdA_5Umds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969203976543:android:05f156114eee86be7a4eea",
+        "android_client_info": {
+          "package_name": "com.wiam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIp8deLoj740GngGj_hel51hcdA_5Umds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
